@@ -24,14 +24,6 @@ This project builds a **Logistic Regression Classifier** to classify iris flower
    ```bash
    pip install -r requirements.txt
    ```
-   *If you don’t have a `requirements.txt`, create one with the following content:*
-   ```
-   pandas
-   numpy
-   matplotlib
-   seaborn
-   scikit-learn
-   ```
 
 ## Usage
 After installation, you can run the Jupyter Notebook or Python script directly:
