@@ -60,7 +60,7 @@ python iris_logistic_regression.py
 ## Screenshots
 Below is an example of the confusion matrix visualization:
 
-![Confusion Matrix](screenshot.png)
+![Confusion Matrix](https://github.com/user-attachments/assets/27071084-aa92-4b58-894d-a42414731f79)
 
 
 ## Credits
