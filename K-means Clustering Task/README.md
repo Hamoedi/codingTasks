@@ -52,7 +52,7 @@ python kmeans_task.py
 ## Screenshots
 Below is an example of the cluster visualization:
 
-![Cluster Visualization](https://github.com/user-attachments/assets/c2730da5-db0f-4aeb-a2da-01043f7fe148)
+![Cluster Visualization](https://github.com/user-attachments/assets/f5577def-38d4-4d7d-b150-13ded37ef23f)
 
 ## Credits
 - **Author:** [Ahmed Al Waly](https://github.com/Hamoedi)
